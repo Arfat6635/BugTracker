@@ -7,6 +7,6 @@ Implemented using .NET MVC 5 with code-first database and includes user-level an
 Database interaction is accomplished through LINQ to Entity Framework. 
 Composed a responsive front-end design using HTML5, and a Bootstrap template. 
 
-##Functional requirements
+## Functional requirements
 
 ![alt text](https://i.ibb.co/Zz0T3hz/functional-requirements.png)
